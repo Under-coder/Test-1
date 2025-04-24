@@ -1,1 +1,4 @@
 Document for develop branch
+develop merged into master
+and pushed to github
+now making pull request on github
